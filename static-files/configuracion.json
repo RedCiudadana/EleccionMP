@@ -1,0 +1,77 @@
+[
+  {
+    "key": "logoUrl",
+    "value": "https://raw.githubusercontent.com/RedCiudadana/PrisionAbierta/master/public/images/logo.png",
+    "tags": ""
+  },
+  {
+    "key": "logoTitle",
+    "value": "Prision Abierta",
+    "tags": ""
+  },
+  {
+    "key": "twitterShareLink",
+    "value": "//twitter.com/share?via=Redxguate&amp;text=Conoce a los aspirantes a Procurador General de Derechos Humanos en Guatemala.",
+    "tags": ""
+  },
+  {
+    "key": "facebookShareLink",
+    "value": "//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Feleccionpdh.org",
+    "tags": ""
+  },
+  {
+    "key": "siteMainTitle",
+    "value": "<h2 class=\"text-center\"></h2>",
+    "tags": ""
+  },
+  {
+    "key": "banner1Link",
+    "value": "",
+    "tags": ""
+  },
+  {
+    "key": "banner1Title",
+    "value": "",
+    "tags": ""
+  },
+  {
+    "key": "banner1Footer",
+    "value": "",
+    "tags": ""
+  },
+  {
+    "key": "banner1Slider",
+    "value": "",
+    "tags": ""
+  },
+  {
+    "key": "metodologia",
+    "value": "<h1>Metodología</h1><p>Esta es la metodología</p>",
+    "tags": ""
+  },
+  {
+    "key": "resultados",
+    "value": "<h1>Tabla de Gradación</h1><p>Estas son las valoraciones por criterio obtenidas por cada candidato</p>",
+    "tags": ""
+  },
+  {
+    "key": "useFrontPortfolioVisualization",
+    "value": "",
+    "tags": ""
+  },
+  {
+    "key": "useFrontTableVisualization",
+    "value": "1",
+    "tags": ""
+  },
+  {
+    "key": "htmlTitle",
+    "value": "Prisión Abierta",
+    "tags": ""
+  },
+  {
+    "key": "helloBarUrl",
+    "value": "",
+    "tags": ""
+  }
+]
