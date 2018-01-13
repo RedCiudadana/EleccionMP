@@ -1,11 +1,11 @@
 [
   {
-    "route": "index",
+    "route": "application",
     "title": "Elección MP"
   },
   {
     "route": "perfiles",
-    "title": "Candidatos"
+    "title": "Perfiles"
   },
   {
     "route": "postuladores",
