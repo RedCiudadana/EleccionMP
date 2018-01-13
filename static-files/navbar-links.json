@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "route": "index",
+    "title": "Elección MP"
+  },
+  {
+    "route": "perfiles",
+    "title": "Candidatos"
+  },
+  {
+    "route": "postuladores",
+    "title": "Postuladores"
+  },
+  {
+    "route": "investigacion",
+    "title": "Investigación"
+  },
+  {
+    "route": "metodologia",
+    "title": "Metodología"
+  }
+]

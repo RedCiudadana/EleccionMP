@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "key": "nombre",
+    "value": "Comisión de postulaciones para elección al Ministerio Público"
+  },
+  {
+    "key": "trayectoria",
+    "value": "Comisión de postulaciones para elección al Ministerio Público"
+  },
+  {
+    "key": "fb",
+    "value": "facebook.com"
+  },
+  {
+    "key": "tw",
+    "value": "twitter.com"
+  },
+  {
+    "key": "email",
+    "value": "comision@test.int"
+  }
+]

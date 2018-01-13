@@ -4,8 +4,8 @@
     "label": "Cargo:"
   },
   {
-    "field": "institucion",
-    "label": "Institución:"
+    "field": "distrito",
+    "label": "Distrito:"
   },
   {
     "field": "profesion",
