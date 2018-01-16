@@ -1,11 +1,7 @@
 [
   {
     "field": "cargo",
-    "label": "Cargo:"
-  },
-  {
-    "field": "distrito",
-    "label": "Distrito:"
+    "label": "Candidato:"
   },
   {
     "field": "profesion",

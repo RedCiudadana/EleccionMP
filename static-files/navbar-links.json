@@ -12,10 +12,6 @@
     "title": "Postuladores"
   },
   {
-    "route": "investigacion",
-    "title": "Investigación"
-  },
-  {
     "route": "metodologia",
     "title": "Metodología"
   }
