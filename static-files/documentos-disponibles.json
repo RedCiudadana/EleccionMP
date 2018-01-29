@@ -1,0 +1,146 @@
+[
+  {
+    "perfil": "candidato-1",
+    "nombreDocumento": "CV (PDF)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/CV/Israel%20Odav%C3%ADasTixal%20Mul.pdf",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-1",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-1",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-2",
+    "nombreDocumento": "CV (PDF)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos\\CV\\Alejandro%20Cordoba.pdf",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-2",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-2",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-3",
+    "nombreDocumento": "CV (PDF)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos\\CV\\Nery%20Estuardo%20Rodenas%20Paredes.docx",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-3",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-3",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-4",
+    "nombreDocumento": "CV (PDF)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos\\CV\\Jorge%20Mario%20Andrino.pdf",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-4",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-4",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-5",
+    "nombreDocumento": "CV (PDF)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos\\CV\\Elizabeth%20Palencia%20Orellana.docx",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-5",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-5",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-6",
+    "nombreDocumento": "CV (PDF)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos\\CV\\Maynor%20Custodio%20Franco%20Flores.pdf",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-6",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-6",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-7",
+    "nombreDocumento": "CV (PDF)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos\\CV\\Thelma%20Shayne%20Ochaeta%20Argueta.pdf",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-7",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-7",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-8",
+    "nombreDocumento": "CV (PDF)",
+    "urlDocumento": "http://recursos.eleccionpdh.org/Documentacion/Terna/EXPEDIENTE%20COMPLETO%20CLAUDIA%20MARIA%20LOPEZ%20DAVID.pdf",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-8",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
+    "cssClasses": "light-blue"
+  },
+  {
+    "perfil": "candidato-8",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
+    "cssClasses": "light-blue"
+  }
+]
