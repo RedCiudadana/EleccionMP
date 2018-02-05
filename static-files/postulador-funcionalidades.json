@@ -1,0 +1,23 @@
+[
+  {
+    "route": "comision.diputado.index",
+    "link": "",
+    "name": "Perfil",
+    "iconClass": "fa fa-user color-grey",
+    "title": "Perfil"
+  },
+  {
+    "route": "comision.diputado.frente-a-frente",
+    "link": "",
+    "name": "Frente a Frente",
+    "iconClass": "fa fa-bolt color-yellow",
+    "title": "Compara aquí la experiencia profesional, académica y trayectoria de los postuladores."
+  },
+  {
+    "route": "comision.diputado.fact-checking",
+    "link": "",
+    "name": "Investigación",
+    "iconClass": "fa fa-check-circle color-blue",
+    "title": "Compara aquí las declaraciones de los candidatos contra la verificación de los hechos."
+  }
+]

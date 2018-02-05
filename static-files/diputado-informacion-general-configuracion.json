@@ -1,22 +1,14 @@
 [
   {
     "field": "cargo",
-    "label": "Candidato:"
+    "label": "Cargo:"
+  },
+  {
+    "field": "institucion",
+    "label": "Institución:"
   },
   {
     "field": "profesion",
     "label": "Profesión:"
-  },
-  {
-    "field": "educacion",
-    "label": "Educación:"
-  },
-  {
-    "field": "fechaNacimiento",
-    "label": "Fecha de nacimiento:"
-  },
-  {
-    "field": "lugarNacimiento",
-    "label": "Lugar de nacimiento:"
   }
 ]

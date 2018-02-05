@@ -3,20 +3,21 @@
     "id": "presidente-csj",
     "nombre": "José Antonio Pineda Barales",
     "cargo": "Presidente de la Corte Suprema de Justicia (CSJ).",
-    "profesion": "",
+    "profesion": "Ingeniero",
     "educacion": "",
     "fechaNacimiento": "",
     "lugarNacimiento": "",
     "institucion": "Corte Suprema de Justicia (CSJ).",
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/01.jpg",
-    "biografia": "Presidente de la Corte Suprema de Justicia (CSJ).",
+    "biografia": "Presidente de la Corte Suprema de Justicia (CSJ). <br />\n\nLorem ispLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "trayectoria": "Presidente de la Corte Suprema de Justicia (CSJ).",
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "presidente-cang",
@@ -33,9 +34,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "presidente-honor",
@@ -52,9 +54,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-davinci",
@@ -71,9 +74,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-ufm",
@@ -90,9 +94,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-unis",
@@ -109,9 +114,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-umg",
@@ -128,9 +134,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-um",
@@ -147,9 +154,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-occidente",
@@ -166,9 +174,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-panamericana",
@@ -185,9 +194,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-url",
@@ -204,9 +214,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-regional",
@@ -223,9 +234,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-rural",
@@ -242,9 +254,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-san-pablo",
@@ -261,9 +274,10 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   },
   {
     "id": "decano-usac",
@@ -280,8 +294,9 @@
     "fb": "facebook.com",
     "tw": "twitter.com",
     "email": "eleccionmp@redciudadana.org",
-    "fb-institucion": "facebook.com",
-    "tw-institucion": "twitter.com",
-    "email-institucion": "eleccionmp@redciudadana.org"
+    "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
+    "fbInstitucion": "facebook.com",
+    "twInstitucion": "twitter.com",
+    "emailInstitucion": "eleccionmp@redciudadana.org"
   }
 ]
