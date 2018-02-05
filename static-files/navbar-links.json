@@ -5,11 +5,11 @@
   },
   {
     "route": "perfiles",
-    "title": "Perfiles"
+    "title": "Candidatos"
   },
   {
-    "route": "postuladores",
-    "title": "Postuladores"
+    "route": "comision",
+    "title": "Comisión de Postulación"
   },
   {
     "route": "metodologia",

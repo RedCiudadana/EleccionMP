@@ -1,12 +1,12 @@
 [
   {
     "field": "experienciaProfesional",
-    "label": "",
-    "section": "Experiencia profesional"
+    "label": "Compara aquí las declaraciones de los candidatos contra la verificación de los hechos.",
+    "section": "Experiencia Profesional"
   },
   {
-    "field": "experienciaEnDH",
-    "label": "",
-    "section": "Experiencia en Derechos Humanos"
+    "field": "experienciaAcademica",
+    "label": "Compara aquí las declaraciones de los candidatos contra la verificación de los hechos.",
+    "section": "Experiencia Académica"
   }
 ]

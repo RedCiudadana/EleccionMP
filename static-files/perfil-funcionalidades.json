@@ -11,13 +11,13 @@
     "link": "",
     "name": "Frente a Frente",
     "iconClass": "fa fa-bolt color-yellow",
-    "title": "Compara aquí la postura de los candidatos. Enumeramos la respuesta que dieron en nuestro cuestionario y otras propuestas que han dicho en medios de comunicación y foros. Haz click en \"fuente\" y encuentra el origen de la cita."
+    "title": "Compara aquí la experiencia profesional, académica y trayectoria de los candidatos."
   },
   {
     "route": "perfil.fact-checking",
     "link": "",
-    "name": "Fact checking",
+    "name": "Investigación",
     "iconClass": "fa fa-check-circle color-blue",
-    "title": "Compara aquí las declaraciones de los candidatos contra la verificación de los hechos"
+    "title": "Compara aquí las declaraciones de los candidatos contra la verificación de los hechos."
   }
 ]
