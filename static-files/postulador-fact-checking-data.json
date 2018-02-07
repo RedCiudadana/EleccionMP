@@ -1,22 +1,152 @@
 [
   {
     "postulador": "presidente-csj",
-    "section": "Entrevistas Medios",
-    "title": "¿Cuál será su prioridad número uno?",
-    "quote": "En el caso de que yo sea electo por el Congreso, no voy a ser un procurador de oficina. Hace falta la presencia  del procurador en todo el país. Guatemala no es solo la capital, sino los 339 municipios restantes. Recordemos que la mayoría de las violaciones a los derechos humanos se da en el interior del país.",
-    "quoteUrl": "http://www.prensalibre.com/guatemala/politica/comision-confirma-a-terna-electa-para-pdh",
-    "fact": "La actual coyuntura del país necesita un papel muy maduro del procurador. Recordemos que no podemos polarizarnos, los derechos humanos no son patrimonio de nadie, no tienen ideología, independientemente de las diferencias que existan.",
-    "source": "Prensa Libre",
-    "sourceUrl": "http://www.prensalibre.com/guatemala/politica/comision-confirma-a-terna-electa-para-pdh"
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
   },
   {
-    "postulador": "presidente-csj",
-    "section": "Entrevistas Medios",
-    "title": "¿Cuál es la carencia más grande del país en DD. HH.?",
-    "quote": "La vida es la carencia más grande, ya que no hay respeto a ella, los  índices de seguridad son preocupantes. Yo hablaba de hacer un trabajo de forma preventiva. Se puede trabajar en las escuelas una cultura de derechos humanos.",
-    "quoteUrl": "",
-    "fact": "La actual coyuntura del país necesita un papel muy maduro del procurador. Recordemos que no podemos polarizarnos, los derechos humanos no son patrimonio de nadie, no tienen ideología, independientemente de las diferencias que existan.",
-    "source": "Prensa Libre",
-    "sourceUrl": ""
+    "postulador": "presidente-cang",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "presidente-honor",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-davinci",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "Si, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico ha sido multado por la Corte de Constitucionalidad. La totalidad de la multa asciende a Q20,500",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-ufm",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "Si, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico ha sido multado por la Corte de Constitucionalidad. La totalidad de la multa asciende a Q2,000",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-unis",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-umg",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-um",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-occidente",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-panamericana",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-url",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-regional",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-rural",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "Si, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico ha sido multado por la Corte de Constitucionalidad. La totalidad de la multa asciende a Q2,400",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-san-pablo",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
+  },
+  {
+    "postulador": "decano-usac",
+    "section": "Multas CC",
+    "title": "En virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad, ¿el miembro de la comisión de postulación ha sido multado por la Corte de Constitucionalidad? ",
+    "quote": "No, el miembro de la comisión de postulación de Fiscal General del Ministerio Publico no ha sido multado por la Corte de Constitucionalidad. ",
+    "quoteUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/",
+    "fact": "Se realizo la consulta a la Corte de Constitucionalidad en virtud del artículo 46 de la Ley de Amparo, Exhibición Personal y de Constitucionalidad.",
+    "source": "Corte de Constitucionalidad",
+    "sourceUrl": "https://www.cc.gob.gt/2017/10/09/listado-de-abogados-con-multas/"
   }
 ]

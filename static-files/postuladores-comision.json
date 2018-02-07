@@ -11,13 +11,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/01.jpg",
     "biografia": "Presidente de la Corte Suprema de Justicia (CSJ).",
     "trayectoria": "Comisario del juzgado primero de primera instancia de familia de Guatemala.\nOficial notificador de Juzgados de Primera Instancia de Familia de Guatemala, (1977-1984); y del Juzgado Sexto de Primera Instancia del Ramo Civil (1984-1995)\nJuez de paz civil (1995-1997).\nJuez de Primera Instancia en el Tribunal de Sentencia de Amatitlán. (1997-1999)\nMagistrado titular de la Corte de Apelaciones de la Sala Cuarta de la Corte de Apelaciones de Trabajo Y Previsión Social (1999-2004)\nMagistrador Titular de la Corte de Apelaciciones del Ramo Penal, Narcoactividad y Delitos contra el Ambiente. (2004-2009).  Magistrado Suplente de la Corte de Apelaciones de la Sala Regional Mixta de la Corte de Apelaciones, Antigua Guatemala (2009-2013)\nMagistrado de la Sala Segunda de la Corte de Apelaciones de Familia. (2013)\nPresidente de la Corte Suprema de Justicia (periodo 2014-2019). Asumió la presidencia de la Corte el 13 de octubre de 2017.",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "http://www.facebook.com/organismojudicial.gt",
+    "twInstitucion": "http://www.twitter.com/OJGuatemala",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "http://www.oj.gob.gt/"
   },
   {
     "id": "presidente-cang",
@@ -31,13 +32,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/02.jpg",
     "biografia": "Presidente del Colegio de Abogados y Notarios de Guatemala (CANG).",
     "trayectoria": "Miembro del Tribunal de Honor del Colegio de Abogados y Notarios.",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/CANG.GUATE/",
+    "twInstitucion": "https://twitter.com/col_abogados_gt",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "http://www.cang.org.gt/"
   },
   {
     "id": "presidente-honor",
@@ -51,13 +53,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/03.jpg",
     "biografia": "Presidente del Tribunal de Honor del Colegio de Abogados y Notarios",
     "trayectoria": "Magistrado suplente del Tribunal Supremo Electoral (2008-2014).\nCandidato a magistrado suplente de la CC inscritos por el CANG (2016),",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/CANG.GUATE/",
+    "twInstitucion": "https://twitter.com/col_abogados_gt",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "http://www.cang.org.gt/"
   },
   {
     "id": "decano-davinci",
@@ -71,13 +74,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/10.jpg",
     "biografia": "Decano de Ciencias Jurídicas y Sociales de la Universidad Da Vinci.",
     "trayectoria": "",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/UDVGT1/",
+    "twInstitucion": "https://twitter.com/udvgt",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "https://udv.edu.gt/"
   },
   {
     "id": "decano-ufm",
@@ -91,13 +95,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/04.jpg",
     "biografia": "Decano de Ciencias Jurídicas y Sociales de la Universidad Francisco Marroquín.",
     "trayectoria": "Práctica Privada (1986- a la fecha). \n Asesor Jurídico Corporación Bursátil (1995- a la fecha).\n Director del Banco de Antigua (1998-2002).\n Asesor Jurídico Banco del Agro, S.A., (1986-1990).\n Magistrado Suplente, Corte de Apelaciones, (1998-2000).\n Arbitro del Centro de Arbitraje y Conciliación, Cámara de Comercio de Guatemala; Árbitro del Centro de Resolución de Controversias de la Cámara de Industria de Guatemala.(1998 a la fecha)\n Catedrático en la Universidad Francisco Marroquín (1999- a la fecha).",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/UFMedu",
+    "twInstitucion": "https://twitter.com/ufmedu",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "https://www.ufm.edu/"
   },
   {
     "id": "decano-unis",
@@ -111,13 +116,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/05.jpg",
     "biografia": "Decana de Ciencias Jurídicas y Sociales de la Universidad del Istmo.",
     "trayectoria": "Decana de Ciencias Jurídicas y Sociales de la Universidad del Istmo.",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/unisgt",
+    "twInstitucion": "https://twitter.com/UNISgt",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "http://unis.edu.gt/"
   },
   {
     "id": "decano-umg",
@@ -131,13 +137,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/15.jpg",
     "biografia": "Decano de Ciencias Jurídicas de la Universidad Mariano Gálvez.",
     "trayectoria": "Decano de Ciencias Jurídicas de la Universidad Mariano Gálvez.",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://facebook.com/u.marianogalvez",
+    "twInstitucion": "https://twitter.com/marianogalvez",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "https://www.umg.edu.gt/"
   },
   {
     "id": "decano-um",
@@ -151,13 +158,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/06.jpg",
     "biografia": "Decano de Ciencias Jurídicas de la Universidad Mesoamericana.",
     "trayectoria": "Parte de la planilla (como síndico primero) que presentó el Partido Patriota para competir por el Concejo Municipal de Quetzaltenango. (2011).",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/mesoamericana",
+    "twInstitucion": "https://twitter.com/UMES_Guatemala",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "http://www.umes.edu.gt/"
   },
   {
     "id": "decano-occidente",
@@ -171,13 +179,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/07.jpg",
     "biografia": "Decano de Ciencias Jurídicas de la Universidad de Occidente.",
     "trayectoria": "Decano de Ciencias Jurídicas de la Universidad de Occidente.",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/UdeoQuetzaltenango",
+    "twInstitucion": "https://twitter.com/UdeO_Oficial",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "https://udeo.edu.gt/"
   },
   {
     "id": "decano-panamericana",
@@ -191,13 +200,14 @@
     "fotoUrl": "http://datos.eleccionmp.org/Comision%20Postulacion/Fotos/11.jpg",
     "biografia": "Decano de Ciencias Jurídicas y Sociales de la Universidad Panamericana.",
     "trayectoria": "Decano de Ciencias Jurídicas y Sociales de la Universidad Panamericana.",
-    "fb": "www.facebook.com",
-    "tw": "www.twitter.com",
+    "fb": "https://www.facebook.com/Redciudadanagt/",
+    "tw": "RedxGuate",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/upanamericana",
+    "twInstitucion": "https://twitter.com/UPANAGT",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "https://www.upana.edu.gt/"
   },
   {
     "id": "decano-url",
@@ -215,9 +225,10 @@
     "tw": "www.twitter.com",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/url.landivar/",
+    "twInstitucion": "https://twitter.com/u_landivar",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "http://url.edu.gt/"
   },
   {
     "id": "decano-regional",
@@ -235,9 +246,10 @@
     "tw": "www.twitter.com",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/URegional/",
+    "twInstitucion": "https://twitter.com/uregional",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "http://www.uregional.edu.gt/"
   },
   {
     "id": "decano-rural",
@@ -255,9 +267,10 @@
     "tw": "www.twitter.com",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/UniversidadRuralGT/",
+    "twInstitucion": "https://twitter.com/ururalgt",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "http://urural.edu.gt/"
   },
   {
     "id": "decano-san-pablo",
@@ -275,9 +288,10 @@
     "tw": "www.twitter.com",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "https://www.facebook.com/USanPablo",
+    "twInstitucion": "https://twitter.com/usanpablo",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "https://uspg.edu.gt"
   },
   {
     "id": "decano-usac",
@@ -295,8 +309,9 @@
     "tw": "www.twitter.com",
     "email": "eleccionmp@redciudadana.org",
     "fotoInstitucionUrl": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png",
-    "fbInstitucion": "www.facebook.com",
-    "twInstitucion": "www.twitter.com",
-    "emailInstitucion": "eleccionmp@redciudadana.org"
+    "fbInstitucion": "http://www.facebook.com/usacenlinea",
+    "twInstitucion": "https://twitter.com/usacenlinea",
+    "emailInstitucion": "eleccionmp@redciudadana.org",
+    "webInstitucion": "https://www.usac.edu.gt/"
   }
 ]
