@@ -1,12 +1,22 @@
 [
   {
     "field": "experienciaProfesional",
-    "label": "Compara aquí las declaraciones de los candidatos contra la verificación de los hechos.",
+    "label": "",
     "section": "Experiencia Profesional"
   },
   {
     "field": "experienciaAcademica",
-    "label": "Compara aquí las declaraciones de los candidatos contra la verificación de los hechos.",
+    "label": "",
     "section": "Experiencia Académica"
+  },
+  {
+    "field": "notaAreaEvaluada3",
+    "label": "",
+    "section": "Proyección Humana e Idoneidad"
+  },
+  {
+    "field": "notaAreaEvaluada4Texto",
+    "label": "",
+    "section": "Cualidades Éticas"
   }
 ]
