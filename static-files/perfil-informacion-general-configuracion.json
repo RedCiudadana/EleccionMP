@@ -1,18 +1,22 @@
 [
   {
-    "field": "cargo",
-    "label": "Cargo:"
+    "field": "estado",
+    "label": "Estado:"
   },
   {
-    "field": "institucion",
-    "label": "Institución:"
+    "field": "edad",
+    "label": "Edad:"
   },
   {
-    "field": "profesion",
-    "label": "Profesión:"
+    "field": "estadocivil",
+    "label": "Estado Civil:"
   },
   {
-    "field": "educacion",
-    "label": "Educación:"
+    "field": "anosprofesional",
+    "label": "Años de Ejercicio Profesional:"
+  },
+  {
+    "field": "colegiado",
+    "label": "No. Colegiado:"
   }
 ]

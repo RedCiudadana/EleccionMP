@@ -26,5 +26,19 @@
     "id": "candidato4",
     "link": "",
     "imageLink": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png"
+  },
+  {
+    "caption": "Candidato 5",
+    "route": "perfil",
+    "id": "candidato5",
+    "link": "",
+    "imageLink": "http://datos.eleccionmp.org/Candidatos/Fotos/candidata.png"
+  },
+  {
+    "caption": "Candidato 6",
+    "route": "perfil",
+    "id": "candidato6",
+    "link": "",
+    "imageLink": "http://datos.eleccionmp.org/Candidatos/Fotos/candidato.png"
   }
 ]

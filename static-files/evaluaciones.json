@@ -150,8 +150,753 @@
     "resultado": "0"
   },
   {
-    "postuladorId": "",
+    "postuladorId": "presidente-csj",
     "perfilId": "candidato-3",
-    "resultado": ""
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-6",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-1",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-2",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-3",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-4",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-csj",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-cang",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "presidente-honor",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-davinci",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-ufm",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-unis",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-umg",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-um",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-occidente",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-panamericana",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-url",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-regional",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-rural",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-san-pablo",
+    "perfilId": "candidato-5",
+    "resultado": "0"
+  },
+  {
+    "postuladorId": "decano-usac",
+    "perfilId": "candidato-5",
+    "resultado": "0"
   }
 ]
