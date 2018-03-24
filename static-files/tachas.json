@@ -1,0 +1,22 @@
+[
+  {
+    "perfilId": "candidato-1",
+    "tacha": "Descripción de tacha 1",
+    "presentadoPor": "Presentado por 1"
+  },
+  {
+    "perfilId": "candidato-1",
+    "tacha": "Descripción de tacha 2",
+    "presentadoPor": "Presentado por 2"
+  },
+  {
+    "perfilId": "candidato-1",
+    "tacha": "Descripción de tacha 3",
+    "presentadoPor": "Presentado por 3"
+  },
+  {
+    "perfilId": "candidato-1",
+    "tacha": "Descripción de tacha 4",
+    "presentadoPor": "Presentado por 4"
+  }
+]
