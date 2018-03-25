@@ -1,22 +1,200 @@
 [
   {
-    "perfilId": "candidato-1",
-    "tacha": "Descripción de tacha 1",
-    "presentadoPor": "Presentado por 1"
+    "perfilId": "candidato-2",
+    "tacha": "Falta de Idoneadad por haber beneficiado a personas de forma ilegal.",
+    "tachaUrl": "http://www.oj.gob.gt/expediente/expediente%202%20tacha1.pdf",
+    "presentadoPor": "Ricardo Mendez Ruiz Valdes"
   },
   {
-    "perfilId": "candidato-1",
-    "tacha": "Descripción de tacha 2",
-    "presentadoPor": "Presentado por 2"
+    "perfilId": "candidato-2",
+    "tacha": "Sindicada por abuso de autoridad, trafico de influencias y cooccionar a ex-fiscal Heidy Tamara",
+    "tachaUrl": "http://www.oj.gob.gt/expediente/expediente%202%20tacha2.pdf",
+    "presentadoPor": "Raul Amilcar Falla Ovalle"
   },
   {
-    "perfilId": "candidato-1",
-    "tacha": "Descripción de tacha 3",
-    "presentadoPor": "Presentado por 3"
+    "perfilId": "candidato-2",
+    "tacha": "Acusada por Impunidad y Abuso de Poder en el Ministerio Publico.",
+    "tachaUrl": "http://www.oj.gob.gt/expediente/expediente%202%20tacha3.pdf",
+    "presentadoPor": "Ulysses Robert Dent Davila"
   },
   {
-    "perfilId": "candidato-1",
-    "tacha": "Descripción de tacha 4",
-    "presentadoPor": "Presentado por 4"
+    "perfilId": "candidato-3",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-3",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-4",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-7",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-7",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-7",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-9",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-10",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-10",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-10",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-10",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-14",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-14",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-14",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-15",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-15",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-15",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-15",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-15",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-21",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-23",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-28",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-28",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-28",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-32",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-33",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-33",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-38",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-38",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
+  },
+  {
+    "perfilId": "candidato-38",
+    "tacha": "",
+    "tachaUrl": "",
+    "presentadoPor": ""
   }
 ]
