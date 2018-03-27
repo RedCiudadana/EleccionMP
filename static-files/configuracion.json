@@ -26,7 +26,7 @@
   },
   {
     "key": "banner1Link",
-    "value": "https://cdn.rawgit.com/RedCiudadana/EleccionMP/5e046a27/public/app/img/front-banner.png",
+    "value": "",
     "tags": ""
   },
   {
@@ -41,7 +41,12 @@
   },
   {
     "key": "banner1Slider",
-    "value": "",
+    "value": "1",
+    "tags": ""
+  },
+  {
+    "key": "sliderAutoplaySpeed",
+    "value": "4000",
     "tags": ""
   },
   {
