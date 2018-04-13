@@ -83,5 +83,20 @@
     "key": "useFrontFilterWidget",
     "value": "1",
     "tags": ""
+  },
+  {
+    "key": "procesoEleccionTitulo",
+    "value": "Proceso de elección de Fiscal General del MP",
+    "tags": ""
+  },
+  {
+    "key": "procesoEleccionPasoActual",
+    "value": "<div class=\"text-left\"><span style=\"font-size: 18px;\">Paso actual:</span></div>\n<div><span style=\"font-size: 26px; margin-left: 5px; width: 100%\">Exámen psicométrico</span></div>",
+    "tags": ""
+  },
+  {
+    "key": "procesoEleccionSiguientePaso",
+    "value": "<div class=\"text-left\"><span style=\"font-size: 18px;\">Siguiente paso:</span></div>\n<div><span style=\"font-size: 26px; margin-left: 5px;\">Evaluación de tabla de gradación</span></div>",
+    "tags": ""
   }
 ]
