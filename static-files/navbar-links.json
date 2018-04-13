@@ -1,11 +1,11 @@
 [
   {
-    "route": "application",
-    "title": "Elección MP"
-  },
-  {
     "route": "perfiles",
     "title": "Candidatos"
+  },
+  {
+    "route": "tabla-gradacion",
+    "title": "Tabla de gradación"
   },
   {
     "route": "comision",
