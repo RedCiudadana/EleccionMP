@@ -115,13 +115,13 @@
   },
   {
     "key": "procesoEleccionPasoActual",
-    "value": "<div class=\"text-left\"><span style=\"font-size: 18px;\">Paso actual:</span></div>\n<div><span style=\"font-size: 26px; margin-left: 5px; width: 100%\">Selección de Terna 6 candidatos</span></div>",
+    "value": "<div class=\"text-left\"><span style=\"font-size: 18px;\">Paso actual:</span></div>\n<div><span style=\"font-size: 26px; margin-left: 5px; width: 100%\">Presidente Jimmy Morales elige al #FiscalIntachable</span></div>",
     "tags": "",
     "observaciones": ""
   },
   {
     "key": "procesoEleccionSiguientePaso",
-    "value": "<div class=\"text-left\"><span style=\"font-size: 18px;\">Siguiente paso:</span></div>\n<div><span style=\"font-size: 26px; margin-left: 5px;\">Presidente Jimmy Morales elige a #FiscalIntachable</span></div>",
+    "value": "<div class=\"text-left\"><span style=\"font-size: 18px;\">Siguiente paso:</span></div>\n<div><span style=\"font-size: 26px; margin-left: 5px;\">#FiscalIntachable inicia trabajo en MP</span></div>",
     "tags": "",
     "observaciones": ""
   }
