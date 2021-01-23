@@ -21,7 +21,7 @@
 }
 
 /**
- * Taken from http://getbootstrap.com/css/#helper-classes-center
+ * Taken from https://getbootstrap.com/css/#helper-classes-center
  */
 .center-block {
     display: block;
@@ -458,7 +458,7 @@ a:focus {
  * Row with equal height columns
  * --------------------------------------------------
  *
- * Taken from http://getbootstrap.com.vn/examples/equal-height-columns/equal-height-columns.css
+ * Taken from https://getbootstrap.com.vn/examples/equal-height-columns/equal-height-columns.css
  */
 .row-eq-height {
   display: -webkit-box;

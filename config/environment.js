@@ -29,7 +29,7 @@ module.exports = function(environment) {
       // Set null to retrieve data from the spreadsheet live. Otherwhise set the
       // URL from which to load de dumped static files
       // staticFilesUrl: null
-      // staticFilesUrl: 'http://eleccionmp.org/static-files/'
+      // staticFilesUrl: 'https://eleccionmp.org/static-files/'
     },
 
     disqus: {
@@ -48,7 +48,7 @@ module.exports = function(environment) {
     ENV.contentSecurityPolicy = contentSecurityPolicy;
     ENV.contentSecurityPolicy['script-src'] = "'self' 'unsafe-eval' db.devservir6:* 172.20.10.9:*";
 
-    ENV.APP.staticFilesUrl = 'http://db.devservir6:6362/static-files/';
+    ENV.APP.staticFilesUrl = 'https://db.devservir6:6362/static-files/';
   }
 
   if (environment === 'test') {
@@ -67,7 +67,7 @@ module.exports = function(environment) {
       webPropertyId: 'UA-113727052-1'
     };
 
-    ENV.APP.staticFilesUrl = 'http://eleccionmp.org/static-files/';
+    ENV.APP.staticFilesUrl = 'https://eleccionmp.org/static-files/';
   }
 
   return ENV;
